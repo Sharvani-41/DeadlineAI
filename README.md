@@ -1,3 +1,4 @@
+<img width="1892" height="1011" alt="Dashboard" src="https://github.com/user-attachments/assets/e8180533-d8df-42a8-930d-5388792c8623" />
 # 🚀 DeadlineAI
 
 **AI-Powered Productivity Dashboard for Smart Task Planning**
@@ -98,19 +99,23 @@ npm run dev
 
 ### Dashboard
 
-*(Add Dashboard Screenshot Here)*
+
+<img width="1892" height="1011" alt="Dashboard" src="https://github.com/user-attachments/assets/12186416-b5f2-4eae-ba4d-c6ce6f547525" />
+
 
 ### AI Task Planner
 
-*(Add AI Planner Screenshot Here)*
+<img width="1682" height="607" alt="TaskManagement" src="https://github.com/user-attachments/assets/c1f4d99d-eed9-4243-9ffc-d3a9a061ff6b" />
 
 ### Productivity Dashboard
 
-*(Add Dashboard Statistics Screenshot Here)*
+<img width="1647" height="792" alt="AIPlanner" src="https://github.com/user-attachments/assets/4c504ad7-7532-46f9-af59-e669569b6a40" />
+
+
 
 ### AI Insights
 
-*(Add AI Insights Screenshot Here)*
+<img width="1696" height="802" alt="AIInsights" src="https://github.com/user-attachments/assets/bf52c704-445e-4f7f-a8ba-45dea7048dd5" />
 
 ---
 
